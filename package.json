@@ -1,0 +1,37 @@
+{
+  "name": "greenkeeper-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.3",
+    "boom": "^6.0.0",
+    "config": "^1.20.3",
+    "joi": "^10.2.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "newrelic": "2.2.2",
+    "qs": "^6.5.1",
+    "redoc": "^1.19.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-subset": "^1.6.0",
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.2",
+    "eslint-plugin-import": "^2.2.0",
+    "nock": "9.0.22",
+    "nodemon": "^1.12.1",
+    "nyc": "^11.2.1",
+    "proxyquire": "^1.7.10",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.2"
+  }
+}
