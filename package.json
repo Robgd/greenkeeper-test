@@ -9,14 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^16.6.3",
-    "boom": "^6.0.0",
+    "hapi": "^17.2.3",
+    "boom": "^7.2.0",
     "config": "^1.20.3",
-    "joi": "^10.2.2",
+    "joi": "^13.1.2",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
-    "newrelic": "2.2.2",
+    "newrelic": "3.2.0",
     "qs": "^6.5.1",
     "redoc": "^1.19.1"
   },
@@ -27,11 +27,11 @@
     "eslint": "^4.8.0",
     "eslint-config-airbnb-base": "^12.0.2",
     "eslint-plugin-import": "^2.2.0",
-    "nock": "9.0.22",
+    "nock": "9.2.3",
     "nodemon": "^1.12.1",
     "nyc": "^11.2.1",
-    "proxyquire": "^1.7.10",
-    "mocha": "^4.0.1",
+    "proxyquire": "^2.0.0",
+    "mocha": "^5.0.4",
     "sinon": "^4.1.2"
   }
 }
